@@ -27,6 +27,7 @@ So, what more do you get from using this?
     TODO: Add in some good git hooks.
     - sanity check
     - commit message format
+    - prettier format using husky
 * npm scripts\
     A few really useful npm scrips so as to make sure building a deploying all goes smoothley
 * A good `.gitignore`\
@@ -37,13 +38,20 @@ So, what more do you get from using this?
 
 ## How to set up
 
-### Deps
+### Dependencies
 
-* Git
-* Npm
-* Flow
-* Prettier
-* Editorconfig plugin
+* [git](https://git-scm.com/)
+* [npm](https://www.npmjs.com/)
+* [flowtype](https://flow.org/)
+* [prettier](https://github.com/prettier/prettier)
+* [editorconfig](http://editorconfig.org/)
+
+## Steps
+
+* **STEP 1** Clone the repo
+* **STEP 2** `npm i`
+* **STEP 3** You are good to go
+
 
 ## Future plans
 
