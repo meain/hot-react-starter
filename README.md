@@ -43,6 +43,7 @@ So, what more do you get from using this?
 * Npm
 * Flow
 * Prettier
+* Editorconfig plugin
 
 ## Future plans
 
