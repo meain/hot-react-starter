@@ -35,6 +35,15 @@ So, what more do you get from using this?
     - Like title change in index page.
     - `favicon.ico`
 
+## How to set up
+
+### Deps
+
+* Git
+* Npm
+* Flow
+* Prettier
+
 ## Future plans
 
 - [ ] Add Saama colors
