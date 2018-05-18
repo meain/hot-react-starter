@@ -10,9 +10,8 @@ module.exports = {
   rules: {
     'react/jsx-uses-vars': 2,
     'no-console': 1,
-    indentSwitchCase: true,
     'no-use-before-define': 0,
-    indent: ['error', 2],
+    indent: ['error', 2, { SwitchCase: 1 }],
     'linebreak-style': ['error', 'unix'],
     quotes: ['error', 'single'],
     semi: ['error', 'never'],
