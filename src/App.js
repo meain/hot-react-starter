@@ -11,7 +11,7 @@ class App extends React.Component<Props, State> {
   render(): React.Node {
     return (
       <div className="App">
-        Saama React Starter
+        React Starter With Stuff
         <p>Check readme to find more about project. Start with `App.js`</p>
       </div>
     )

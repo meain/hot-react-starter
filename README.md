@@ -27,9 +27,8 @@ So, what more do you get from using this?
     A few really useful npm scrips so as to make sure building a deploying all goes smoothley
 * A good `.gitignore`\
     Why commit useless stuff
-* Some good default variables\
-    - Like title change in index page.
-    - `favicon.ico`
+* Few css resets\
+    Very small css resets
 
 ## How to set up
 
@@ -50,7 +49,6 @@ So, what more do you get from using this?
 
 ## Future plans
 
-- [ ] Add Saama colors
 - [ ] Webpack dashboard
 - [ ] A few git hooks
     - sanity check
