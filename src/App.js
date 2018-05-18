@@ -1,8 +1,14 @@
-import React, { Component } from 'react'
+//@flow
+import * as React from 'react'
+import { hot } from 'react-hot-loader'
+
 import './App.css'
 
-class App extends Component {
-  render() {
+type Props = {}
+type State = {}
+
+class App extends React.Component<Props, State> {
+  render(): React.Node {
     return (
       <div className="App">
         Saama React Starter
@@ -12,4 +18,4 @@ class App extends Component {
   }
 }
 
-export default App
+export default hot(module)(App)
