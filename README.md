@@ -23,11 +23,6 @@ So, what more do you get from using this?
     I have added in settings for [`prettier`](https://github.com/prettier/prettier).
     The God sent of code formatters.
     This will take into consideration eslint rules and do most of the hard work of formatting your code for you.
-* A few git hooks\
-    TODO: Add in some good git hooks.
-    - sanity check
-    - commit message format
-    - prettier format using husky
 * npm scripts\
     A few really useful npm scrips so as to make sure building a deploying all goes smoothley
 * A good `.gitignore`\
@@ -57,3 +52,7 @@ So, what more do you get from using this?
 
 - [ ] Add Saama colors
 - [ ] Webpack dashboard
+- [ ] A few git hooks
+    - sanity check
+    - commit message format
+    - prettier format using husky
